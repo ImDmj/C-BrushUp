@@ -1,0 +1,6 @@
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp1\TestApp1\bin\Debug\TestApp1.exe.config
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp1\TestApp1\obj\Debug\TestApp1.csprojResolveAssemblyReference.cache
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp1\TestApp1\bin\Debug\TestApp1.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp1\TestApp1\bin\Debug\TestApp1.pdb
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp1\TestApp1\obj\Debug\TestApp1.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp1\TestApp1\obj\Debug\TestApp1.pdb
