@@ -1,0 +1,5 @@
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp3-Switch\TestApp3-Switch\bin\Debug\TestApp3-Switch.exe.config
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp3-Switch\TestApp3-Switch\bin\Debug\TestApp3-Switch.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp3-Switch\TestApp3-Switch\bin\Debug\TestApp3-Switch.pdb
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp3-Switch\TestApp3-Switch\obj\Debug\TestApp3-Switch.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp3-Switch\TestApp3-Switch\obj\Debug\TestApp3-Switch.pdb
