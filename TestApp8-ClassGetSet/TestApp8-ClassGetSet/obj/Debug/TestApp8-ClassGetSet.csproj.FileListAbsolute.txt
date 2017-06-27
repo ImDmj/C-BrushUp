@@ -1,0 +1,6 @@
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp8-ClassGetSet\TestApp8-ClassGetSet\bin\Debug\TestApp8-ClassGetSet.exe.config
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp8-ClassGetSet\TestApp8-ClassGetSet\obj\Debug\TestApp8-ClassGetSet.csprojResolveAssemblyReference.cache
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp8-ClassGetSet\TestApp8-ClassGetSet\bin\Debug\TestApp8-ClassGetSet.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp8-ClassGetSet\TestApp8-ClassGetSet\bin\Debug\TestApp8-ClassGetSet.pdb
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp8-ClassGetSet\TestApp8-ClassGetSet\obj\Debug\TestApp8-ClassGetSet.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp8-ClassGetSet\TestApp8-ClassGetSet\obj\Debug\TestApp8-ClassGetSet.pdb
