@@ -1,0 +1,5 @@
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp6-ReferenceOut\TestApp6-ReferenceOut\bin\Debug\TestApp6-ReferenceOut.exe.config
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp6-ReferenceOut\TestApp6-ReferenceOut\bin\Debug\TestApp6-ReferenceOut.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp6-ReferenceOut\TestApp6-ReferenceOut\bin\Debug\TestApp6-ReferenceOut.pdb
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp6-ReferenceOut\TestApp6-ReferenceOut\obj\Debug\TestApp6-ReferenceOut.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp6-ReferenceOut\TestApp6-ReferenceOut\obj\Debug\TestApp6-ReferenceOut.pdb
