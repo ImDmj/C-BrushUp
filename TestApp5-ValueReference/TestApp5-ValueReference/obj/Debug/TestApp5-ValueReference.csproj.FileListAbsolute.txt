@@ -1,0 +1,6 @@
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp5-ValueReference\TestApp5-ValueReference\bin\Debug\TestApp5-ValueReference.exe.config
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp5-ValueReference\TestApp5-ValueReference\obj\Debug\TestApp5-ValueReference.csprojResolveAssemblyReference.cache
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp5-ValueReference\TestApp5-ValueReference\bin\Debug\TestApp5-ValueReference.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp5-ValueReference\TestApp5-ValueReference\bin\Debug\TestApp5-ValueReference.pdb
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp5-ValueReference\TestApp5-ValueReference\obj\Debug\TestApp5-ValueReference.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp5-ValueReference\TestApp5-ValueReference\obj\Debug\TestApp5-ValueReference.pdb

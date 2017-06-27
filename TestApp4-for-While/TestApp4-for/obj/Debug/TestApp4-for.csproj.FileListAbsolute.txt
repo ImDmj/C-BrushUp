@@ -1,0 +1,5 @@
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp4-for\TestApp4-for\bin\Debug\TestApp4-for.exe.config
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp4-for\TestApp4-for\bin\Debug\TestApp4-for.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp4-for\TestApp4-for\bin\Debug\TestApp4-for.pdb
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp4-for\TestApp4-for\obj\Debug\TestApp4-for.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp4-for\TestApp4-for\obj\Debug\TestApp4-for.pdb
