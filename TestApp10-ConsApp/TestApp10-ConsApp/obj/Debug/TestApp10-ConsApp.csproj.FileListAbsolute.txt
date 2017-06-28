@@ -1,0 +1,11 @@
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp10-ConsApp\TestApp10-ConsApp\bin\Debug\TestApp10-ConsApp.exe.config
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp10-ConsApp\TestApp10-ConsApp\bin\Debug\TestApp10-ConsApp.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp10-ConsApp\TestApp10-ConsApp\bin\Debug\TestApp10-ConsApp.pdb
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp10-ConsApp\TestApp10-ConsApp\bin\Debug\TestApp10-ClassLibrary.dll
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp10-ConsApp\TestApp10-ConsApp\bin\Debug\TestApp10-ClassLibrary.pdb
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp10-ConsApp\TestApp10-ConsApp\obj\Debug\TestApp10-ConsApp.csprojResolveAssemblyReference.cache
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp10-ConsApp\TestApp10-ConsApp\obj\Debug\TestApp10-ConsApp.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp10-ConsApp\TestApp10-ConsApp\obj\Debug\TestApp10-ConsApp.pdb
+B:\Projects\TestApp10-ConsApp\TestApp10-ConsApp\bin\Debug\TestApp10-ConsApp.exe.config
+B:\Projects\TestApp10-ConsApp\TestApp10-ConsApp\obj\Debug\TestApp10-ConsApp.exe
+B:\Projects\TestApp10-ConsApp\TestApp10-ConsApp\obj\Debug\TestApp10-ConsApp.pdb
