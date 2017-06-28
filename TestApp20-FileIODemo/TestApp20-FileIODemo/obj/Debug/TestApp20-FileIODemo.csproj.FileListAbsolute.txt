@@ -1,0 +1,9 @@
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp20-FileIODemo\TestApp20-FileIODemo\bin\Debug\TestApp20-FileIODemo.exe.config
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp20-FileIODemo\TestApp20-FileIODemo\obj\Debug\TestApp20-FileIODemo.csprojResolveAssemblyReference.cache
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp20-FileIODemo\TestApp20-FileIODemo\obj\Debug\TestApp20_FileIODemo.Form1.resources
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp20-FileIODemo\TestApp20-FileIODemo\obj\Debug\TestApp20_FileIODemo.Properties.Resources.resources
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp20-FileIODemo\TestApp20-FileIODemo\obj\Debug\TestApp20-FileIODemo.csproj.GenerateResource.Cache
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp20-FileIODemo\TestApp20-FileIODemo\bin\Debug\TestApp20-FileIODemo.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp20-FileIODemo\TestApp20-FileIODemo\bin\Debug\TestApp20-FileIODemo.pdb
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp20-FileIODemo\TestApp20-FileIODemo\obj\Debug\TestApp20-FileIODemo.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp20-FileIODemo\TestApp20-FileIODemo\obj\Debug\TestApp20-FileIODemo.pdb
