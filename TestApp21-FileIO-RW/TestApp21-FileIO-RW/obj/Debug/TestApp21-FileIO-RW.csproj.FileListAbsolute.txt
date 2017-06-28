@@ -1,0 +1,9 @@
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp21-FileIO-RW\TestApp21-FileIO-RW\bin\Debug\TestApp21-FileIO-RW.exe.config
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp21-FileIO-RW\TestApp21-FileIO-RW\bin\Debug\TestApp21-FileIO-RW.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp21-FileIO-RW\TestApp21-FileIO-RW\bin\Debug\TestApp21-FileIO-RW.pdb
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp21-FileIO-RW\TestApp21-FileIO-RW\obj\Debug\TestApp21-FileIO-RW.csprojResolveAssemblyReference.cache
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp21-FileIO-RW\TestApp21-FileIO-RW\obj\Debug\TestApp21_FileIO_RW.Form1.resources
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp21-FileIO-RW\TestApp21-FileIO-RW\obj\Debug\TestApp21_FileIO_RW.Properties.Resources.resources
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp21-FileIO-RW\TestApp21-FileIO-RW\obj\Debug\TestApp21-FileIO-RW.csproj.GenerateResource.Cache
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp21-FileIO-RW\TestApp21-FileIO-RW\obj\Debug\TestApp21-FileIO-RW.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp21-FileIO-RW\TestApp21-FileIO-RW\obj\Debug\TestApp21-FileIO-RW.pdb
