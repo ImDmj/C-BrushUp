@@ -1,0 +1,12 @@
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp19-WindowsApps\TestApp19-WindowsApps\bin\Debug\TestApp19-WindowsApps.exe.config
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp19-WindowsApps\TestApp19-WindowsApps\bin\Debug\TestApp19-WindowsApps.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp19-WindowsApps\TestApp19-WindowsApps\bin\Debug\TestApp19-WindowsApps.pdb
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp19-WindowsApps\TestApp19-WindowsApps\obj\Debug\TestApp19-WindowsApps.csprojResolveAssemblyReference.cache
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp19-WindowsApps\TestApp19-WindowsApps\obj\Debug\TestApp19_WindowsApps.Form1.resources
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp19-WindowsApps\TestApp19-WindowsApps\obj\Debug\TestApp19_WindowsApps.Properties.Resources.resources
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp19-WindowsApps\TestApp19-WindowsApps\obj\Debug\TestApp19-WindowsApps.csproj.GenerateResource.Cache
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp19-WindowsApps\TestApp19-WindowsApps\obj\Debug\TestApp19-WindowsApps.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp19-WindowsApps\TestApp19-WindowsApps\obj\Debug\TestApp19-WindowsApps.pdb
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp19-WindowsApps\TestApp19-WindowsApps\obj\Debug\TestApp19_WindowsApps.Calc.resources
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp19-WindowsApps\TestApp19-WindowsApps\obj\Debug\TestApp19_WindowsApps.MyEditor.resources
+C:\Users\Manjula\Documents\Visual Studio 2013\Projects\TestApp19-WindowsApps\TestApp19-WindowsApps\obj\Debug\TestApp19_WindowsApps.MDIParent1.resources
