@@ -1,0 +1,9 @@
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp23-ADOdotNet\TestApp23-ADOdotNet\bin\Debug\TestApp23-ADOdotNet.exe.config
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp23-ADOdotNet\TestApp23-ADOdotNet\obj\Debug\TestApp23-ADOdotNet.csprojResolveAssemblyReference.cache
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp23-ADOdotNet\TestApp23-ADOdotNet\obj\Debug\TestApp23_ADOdotNet.Properties.Resources.resources
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp23-ADOdotNet\TestApp23-ADOdotNet\obj\Debug\TestApp23-ADOdotNet.csproj.GenerateResource.Cache
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp23-ADOdotNet\TestApp23-ADOdotNet\bin\Debug\TestApp23-ADOdotNet.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp23-ADOdotNet\TestApp23-ADOdotNet\bin\Debug\TestApp23-ADOdotNet.pdb
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp23-ADOdotNet\TestApp23-ADOdotNet\obj\Debug\TestApp23-ADOdotNet.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp23-ADOdotNet\TestApp23-ADOdotNet\obj\Debug\TestApp23-ADOdotNet.pdb
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp23-ADOdotNet\TestApp23-ADOdotNet\obj\Debug\TestApp23_ADOdotNetConnected.Form1.resources
