@@ -1,0 +1,12 @@
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp24-ADOdotNetDisconnected\TestApp24-ADOdotNetDisconnected\bin\Debug\TestApp24-ADOdotNetDisconnected.exe.config
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp24-ADOdotNetDisconnected\TestApp24-ADOdotNetDisconnected\obj\Debug\TestApp24-ADOdotNetDisconnected.csprojResolveAssemblyReference.cache
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp24-ADOdotNetDisconnected\TestApp24-ADOdotNetDisconnected\obj\Debug\TestApp24_ADOdotNetDisconnected.Form1.resources
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp24-ADOdotNetDisconnected\TestApp24-ADOdotNetDisconnected\obj\Debug\TestApp24_ADOdotNetDisconnected.Form2.resources
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp24-ADOdotNetDisconnected\TestApp24-ADOdotNetDisconnected\obj\Debug\TestApp24_ADOdotNetDisconnected.Properties.Resources.resources
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp24-ADOdotNetDisconnected\TestApp24-ADOdotNetDisconnected\obj\Debug\TestApp24-ADOdotNetDisconnected.csproj.GenerateResource.Cache
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp24-ADOdotNetDisconnected\TestApp24-ADOdotNetDisconnected\bin\Debug\TestApp24-ADOdotNetDisconnected.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp24-ADOdotNetDisconnected\TestApp24-ADOdotNetDisconnected\bin\Debug\TestApp24-ADOdotNetDisconnected.pdb
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp24-ADOdotNetDisconnected\TestApp24-ADOdotNetDisconnected\obj\Debug\TestApp24-ADOdotNetDisconnected.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp24-ADOdotNetDisconnected\TestApp24-ADOdotNetDisconnected\obj\Debug\TestApp24-ADOdotNetDisconnected.pdb
+C:\Users\Manjula\documents\visual studio 2013\Projects\TestApp24-ADOdotNetDisconnected\TestApp24-ADOdotNetDisconnected\obj\Debug\TestApp24_ADOdotNetDisconnected.Form3.resources
+C:\Users\Manjula\documents\visual studio 2013\Projects\TestApp24-ADOdotNetDisconnected\TestApp24-ADOdotNetDisconnected\obj\Debug\TestApp24_ADOdotNetDisconnected.Form4.resources
