@@ -1,0 +1,6 @@
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp17-DelegatesDemo\TestApp17-DelegatesDemo\bin\Debug\TestApp17-DelegatesDemo.exe.config
+C:\Users\Manjula\documents\visual studio 2013\Projects\TestApp17-DelegatesDemo\TestApp17-DelegatesDemo\obj\Debug\TestApp17-DelegatesDemo.csprojResolveAssemblyReference.cache
+C:\Users\Manjula\documents\visual studio 2013\Projects\TestApp17-DelegatesDemo\TestApp17-DelegatesDemo\bin\Debug\TestApp17-DelegatesDemo.exe
+C:\Users\Manjula\documents\visual studio 2013\Projects\TestApp17-DelegatesDemo\TestApp17-DelegatesDemo\bin\Debug\TestApp17-DelegatesDemo.pdb
+C:\Users\Manjula\documents\visual studio 2013\Projects\TestApp17-DelegatesDemo\TestApp17-DelegatesDemo\obj\Debug\TestApp17-DelegatesDemo.exe
+C:\Users\Manjula\documents\visual studio 2013\Projects\TestApp17-DelegatesDemo\TestApp17-DelegatesDemo\obj\Debug\TestApp17-DelegatesDemo.pdb
