@@ -1,0 +1,4 @@
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp10-ClassLibrary\TestApp10-ClassLibrary\bin\Debug\TestApp10-ClassLibrary.dll
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp10-ClassLibrary\TestApp10-ClassLibrary\bin\Debug\TestApp10-ClassLibrary.pdb
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp10-ClassLibrary\TestApp10-ClassLibrary\obj\Debug\TestApp10-ClassLibrary.dll
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp10-ClassLibrary\TestApp10-ClassLibrary\obj\Debug\TestApp10-ClassLibrary.pdb
