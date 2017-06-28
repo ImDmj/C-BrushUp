@@ -1,0 +1,6 @@
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp13-CustomException\TestApp13-CustomException\bin\Debug\TestApp13-CustomException.exe.config
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp13-CustomException\TestApp13-CustomException\bin\Debug\TestApp13-CustomException.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp13-CustomException\TestApp13-CustomException\bin\Debug\TestApp13-CustomException.pdb
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp13-CustomException\TestApp13-CustomException\obj\Debug\TestApp13-CustomException.csprojResolveAssemblyReference.cache
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp13-CustomException\TestApp13-CustomException\obj\Debug\TestApp13-CustomException.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp13-CustomException\TestApp13-CustomException\obj\Debug\TestApp13-CustomException.pdb
