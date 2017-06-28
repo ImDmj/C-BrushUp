@@ -1,0 +1,5 @@
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp15-GenericCollections\TestApp15-GenericCollections\bin\Debug\TestApp15-GenericCollections.exe.config
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp15-GenericCollections\TestApp15-GenericCollections\bin\Debug\TestApp15-GenericCollections.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp15-GenericCollections\TestApp15-GenericCollections\bin\Debug\TestApp15-GenericCollections.pdb
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp15-GenericCollections\TestApp15-GenericCollections\obj\Debug\TestApp15-GenericCollections.exe
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp15-GenericCollections\TestApp15-GenericCollections\obj\Debug\TestApp15-GenericCollections.pdb
