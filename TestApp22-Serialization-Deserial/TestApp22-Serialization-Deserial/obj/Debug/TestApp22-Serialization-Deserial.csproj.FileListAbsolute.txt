@@ -1,0 +1,9 @@
+c:\users\manjula\documents\visual studio 2013\Projects\TestApp22-Serialization-Deserial\TestApp22-Serialization-Deserial\bin\Debug\TestApp22-Serialization-Deserial.exe.config
+C:\Users\Manjula\documents\visual studio 2013\Projects\TestApp22-Serialization-Deserial\TestApp22-Serialization-Deserial\bin\Debug\TestApp22-Serialization-Deserial.exe
+C:\Users\Manjula\documents\visual studio 2013\Projects\TestApp22-Serialization-Deserial\TestApp22-Serialization-Deserial\bin\Debug\TestApp22-Serialization-Deserial.pdb
+C:\Users\Manjula\documents\visual studio 2013\Projects\TestApp22-Serialization-Deserial\TestApp22-Serialization-Deserial\obj\Debug\TestApp22-Serialization-Deserial.csprojResolveAssemblyReference.cache
+C:\Users\Manjula\documents\visual studio 2013\Projects\TestApp22-Serialization-Deserial\TestApp22-Serialization-Deserial\obj\Debug\TestApp22_Serialization_Deserial.Form1.resources
+C:\Users\Manjula\documents\visual studio 2013\Projects\TestApp22-Serialization-Deserial\TestApp22-Serialization-Deserial\obj\Debug\TestApp22_Serialization_Deserial.Properties.Resources.resources
+C:\Users\Manjula\documents\visual studio 2013\Projects\TestApp22-Serialization-Deserial\TestApp22-Serialization-Deserial\obj\Debug\TestApp22-Serialization-Deserial.csproj.GenerateResource.Cache
+C:\Users\Manjula\documents\visual studio 2013\Projects\TestApp22-Serialization-Deserial\TestApp22-Serialization-Deserial\obj\Debug\TestApp22-Serialization-Deserial.exe
+C:\Users\Manjula\documents\visual studio 2013\Projects\TestApp22-Serialization-Deserial\TestApp22-Serialization-Deserial\obj\Debug\TestApp22-Serialization-Deserial.pdb
